@@ -4,5 +4,5 @@ Nuestro primer proyecto en equipo.
 ## Participantes:
 - Anderson Trujillo
 - Andres Felipe Gonzalez
-- Santiago Aristizabal
+- Santiago Aristizabal Morales
 - William Suaza
