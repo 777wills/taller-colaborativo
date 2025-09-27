@@ -1,4 +1,4 @@
-# Taller Colaborativo
+# Taller de Colaboración Definitivo.
 Nuestro primer proyecto en equipo.
 
 ## Participantes:
