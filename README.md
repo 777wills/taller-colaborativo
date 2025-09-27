@@ -1,2 +1,8 @@
-# taller-colaborativo
+# Taller Colaborativo
 Nuestro primer proyecto en equipo.
+
+## Participantes:
+- Anderson Trujillo
+- Andres Felipe Gonzalez
+- Santiago Aristizabal
+- William Suaza
